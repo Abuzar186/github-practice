@@ -1,1 +1,4 @@
-# github-practice
+FIT LAB 8 ASSIGNMENT
+ABUZAR
+11TH NOV 2024 
+"This is my GITHUB repositery"
